@@ -2,3 +2,4 @@
 # Week 1
 ## Unit 1
 ### Introduction to HTML
+<p>HTML provides a structured framework for organizing and presenting information on the internet. </p>
