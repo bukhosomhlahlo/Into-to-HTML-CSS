@@ -20,7 +20,7 @@ HTML provides a structured framework for organizing and presenting information o
 </p> 
 
 #### Unordered lists    
-    <p> We use the "ul" tag to create an unordered list, where each item is represented by the "li" tag.</p>
+     We use the "ul" tag to create an unordered list, where each item is represented by the "li" tag.
 #### Ordered lists 
     We use the "ol" tag to create an ordered list, where each item is represented by the "li" tag. The items in the ordered list are automatically numbered.  
 #### Definition lists
