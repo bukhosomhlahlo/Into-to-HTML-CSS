@@ -30,8 +30,23 @@ HTML provides a structured framework for organizing and presenting information o
 <p>Introducing the quotes. We use the "blockquote" tag for longer quotations and the "q" tag for the shorther quotation. To attribute the quote to the cited individuals, we can use the "cite" element. And to distinguish the quote from the surrounding text, we can wrap the whole thing in "blockquote" or "q"  element. These three elements, "cite", "blockquote" and "q", serve a semantic purpose. They inform other computers, "Hey, this is what this is." Additionally, they provide a convenient way to apply custom styling. With CSS, we can make these elements look however we want. We can make blockquotes stand out and give them a special appearance.
 </p>
 
-  #### An example of using blockquotes or q in context
+  #### An example of using blockquotes in context
 ![image](https://github.com/bukhosomhlahlo/Into-to-HTML-CSS/assets/159022974/34e87b29-3030-408f-9ffc-f4cd473dd348)
 
 
 In this example, inside the "blockquote" element, we have two paragraphs and the "cite" element. But we can include any element we want within the blockquote. We can even put a list or a headline in there. The important thing is that elements should be nested within each other in a way that makes sense.
+
+#### Inline Quotation
+The "q" tag is used for shoter, inline qoutation. It automatically adds qoutation marks around the text. 
+
+#### An example of using q  in context
+![image](https://github.com/bukhosomhlahlo/Into-to-HTML-CSS/assets/159022974/20261063-703d-4f9f-8945-be6fef25c6cf)
+
+
+< p style="text-align: center;"><em>In the example, the quote has been translated to different languages to show you how the quote marks differ. Comparing the block quote element to the "<q>" element is a good example of understanding HTML. Some HTML elements, like "strong", "b", "I", and "em", are called "inline" because they are meant to wrap around phrases of text that are inline with other content. They serve a similar purpose as the "q" element. There are many more inline elements that you can use in HTML.
+
+There are certain elements in HTML known as block-level elements, like block quotes, paragraphs, and unordered lists. These elements essentially create separate blocks on the page. You can think of them as standalone entities that can be followed by another block. Some of this relates to CSS, where you can switch the layout behavior of elements from block to inline or vice versa. However, before you dive into thinking about layout or CSS, it is important to understand the inherent nature of these HTML elements. 
+
+Some elements serve as markers for something that is part of a larger entity, while others represent the larger entity itself. Let's take the example of block quotes and the "<q>" element. They may seem similar, but they serve different purposes. One is used for inline phrases, while the other creates a block context. These are the ways to markup quotes using the block quote, "<q>", and cite elements.</em></p>
+
+
