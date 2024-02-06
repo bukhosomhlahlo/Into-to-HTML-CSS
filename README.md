@@ -62,4 +62,4 @@ In HTML the "time" element represents the specific period of time or a preciese 
 The machine-readable version prefers numbers in the 24-hour clock format, and we can choose whether to include seconds and fractions of a second or not. 
 
 #### Date(Time) Elements
-
+By using the time element with its datetime attribute, we can convey time in a way that computers can understand.
