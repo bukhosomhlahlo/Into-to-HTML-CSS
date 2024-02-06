@@ -6,7 +6,7 @@ HTML provides a structured framework for organizing and presenting information o
 #### HTML Text Formatting
 <p>HTML offers various tags for formatting text to enchance the appearance of and the structure of the content in the webpage. Following are some of the examples of formatting tags: 
   <ul>
-<li> h1 to h6 Are tags to define headings with different sizes</li>
+<li> '<h1>' to <h6> Are tags to define headings with different sizes</li>
   <li> p  Enclosing a paragraph of text within tags."</li>
   <li> strong or b To make text bold.</li>
   <li> Use em or i tags to initialise text to italics.</li>
