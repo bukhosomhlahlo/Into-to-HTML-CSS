@@ -43,10 +43,21 @@ The "q" tag is used for shoter, inline qoutation. It automatically adds qoutatio
 ![image](https://github.com/bukhosomhlahlo/Into-to-HTML-CSS/assets/159022974/20261063-703d-4f9f-8945-be6fef25c6cf)
 
 
-<b><em>In the example, the quote has been translated to different languages to show you how the quote marks differ. Comparing the block quote element to the "<q>" element is a good example of understanding HTML. Some HTML elements, like "strong", "b", "I", and "em", are called "inline" because they are meant to wrap around phrases of text that are inline with other content. They serve a similar purpose as the "q" element. There are many more inline elements that you can use in HTML.
+<b><em>In the example, the quote has been translated to different languages to show you how the quote marks differ. Comparing the block quote element to the "q" element is a good example of understanding HTML. Some HTML elements, like "strong", "b", "I", and "em", are called "inline" because they are meant to wrap around phrases of text that are inline with other content. They serve a similar purpose as the "q" element. There are many more inline elements that you can use in HTML.
 
-There are certain elements in HTML known as block-level elements, like block quotes, paragraphs, and unordered lists. These elements essentially create separate blocks on the page. You can think of them as standalone entities that can be followed by another block. Some of this relates to CSS, where you can switch the layout behavior of elements from block to inline or vice versa. However, before you dive into thinking about layout or CSS, it is important to understand the inherent nature of these HTML elements. 
+There are certain elements in HTML known as block-level elements, like block quotes, paragraphs, and unordered lists. These elements essentially create separate blocks on the page. Some of this relates to CSS, where you can switch the layout behavior of elements from block to inline or vice versa. However, before you dive into thinking about layout or CSS, it is important to understand the inherent nature of these HTML elements. 
 
-Some elements serve as markers for something that is part of a larger entity, while others represent the larger entity itself. Let's take the example of block quotes and the "<q>" element. They may seem similar, but they serve different purposes. One is used for inline phrases, while the other creates a block context. These are the ways to markup quotes using the block quote, "<q>", and cite elements.</em><b>
+Some elements serve as markers for something that is part of a larger entity, while others represent the larger entity itself. Let's take the example of block quotes and the "q" element. They may seem similar, but they serve different purposes. One is used for inline phrases, while the other creates a block context. These are the ways to markup quotes using the block quote, "q", and cite elements.</em><b>
 
+#### Date Elements
+
+![image](https://github.com/bukhosomhlahlo/Into-to-HTML-CSS/assets/159022974/4984956c-eb3b-41e1-82cb-230cb138ae34)
+The datetime attribute allows us to specify the date or time in a format that computers can understand. We write it like this: <time datetime="2025-05-08">May 8, 2025</time> as also shown in the above figure. For instance, May 8th is represented as 05, 08. Regardless of how we humans phrase the year, the machine-readable version in the datetime attribute is written as 2025-05-08. It starts with the year, four digits, followed by the month in two digits, and then the date in two digits. However, sometimes we may only have the month and year, or just the year. 
+
+#### Time Elements
+
+![image](https://github.com/bukhosomhlahlo/Into-to-HTML-CSS/assets/159022974/d66d9572-6aeb-4aff-a323-cfab73a8c655)
+
+In HTML the "time" element represents the specific period of time or a preciese datetime. It can be used to mark up dates, times, durations, and machne- readable time values.We can specify the time zone, such as 15:45 -05:00, which means 3:45 PM in the time zone that is five hours behind Greenwich Mean Time (GMT), like New York City's time zone.
+The machine-readable version prefers numbers in the 24-hour clock format, and we can choose whether to include seconds and fractions of a second or not. 
 
