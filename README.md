@@ -43,10 +43,10 @@ The "q" tag is used for shoter, inline qoutation. It automatically adds qoutatio
 ![image](https://github.com/bukhosomhlahlo/Into-to-HTML-CSS/assets/159022974/20261063-703d-4f9f-8945-be6fef25c6cf)
 
 
-< p style="text-align: center;"><em>In the example, the quote has been translated to different languages to show you how the quote marks differ. Comparing the block quote element to the "<q>" element is a good example of understanding HTML. Some HTML elements, like "strong", "b", "I", and "em", are called "inline" because they are meant to wrap around phrases of text that are inline with other content. They serve a similar purpose as the "q" element. There are many more inline elements that you can use in HTML.
+<b><em>In the example, the quote has been translated to different languages to show you how the quote marks differ. Comparing the block quote element to the "<q>" element is a good example of understanding HTML. Some HTML elements, like "strong", "b", "I", and "em", are called "inline" because they are meant to wrap around phrases of text that are inline with other content. They serve a similar purpose as the "q" element. There are many more inline elements that you can use in HTML.
 
 There are certain elements in HTML known as block-level elements, like block quotes, paragraphs, and unordered lists. These elements essentially create separate blocks on the page. You can think of them as standalone entities that can be followed by another block. Some of this relates to CSS, where you can switch the layout behavior of elements from block to inline or vice versa. However, before you dive into thinking about layout or CSS, it is important to understand the inherent nature of these HTML elements. 
 
-Some elements serve as markers for something that is part of a larger entity, while others represent the larger entity itself. Let's take the example of block quotes and the "<q>" element. They may seem similar, but they serve different purposes. One is used for inline phrases, while the other creates a block context. These are the ways to markup quotes using the block quote, "<q>", and cite elements.</em></p>
+Some elements serve as markers for something that is part of a larger entity, while others represent the larger entity itself. Let's take the example of block quotes and the "<q>" element. They may seem similar, but they serve different purposes. One is used for inline phrases, while the other creates a block context. These are the ways to markup quotes using the block quote, "<q>", and cite elements.</em><b>
 
 
