@@ -62,11 +62,11 @@ Some elements serve as markers for something that is part of a larger entity, wh
 #### Date(Time) Elements
     By using the time element with its datetime attribute, we can convey time in a way that computers can understand.
 
-### HTML Code, pre and br
-<p> <ul> <li>In the <code>&lt;code&gt;</code> code element is used to define a piece of of the code. It is used  for displaying inline code snippets within a paragraph or block of text.</li> <li> In the <code>&lt;br&gt;</code> element is used to create a line break within content. It is a self-closing tab.</li> <li> In the <code>&lt;pre&gt;</code> element is used to define text. It preserves spacing, line breaks, and everything else.</li></ul>
+#### HTML Code, pre and br
+<p> <ul> <li>In the <code>&lt;code&gt;</code> code element is used to define a piece of of the code. It is used  for displaying inline code snippets within a paragraph or block of text.</li> <li> In the <code>&lt;br&gt;</code> element is used to create a line break within content. It is a self-closing tab.</li> <li> In the <code>&lt;pre&gt;</code> element is used to define text. It preserves spacing, line breaks, and everything else.</li></ul> </p>
 
 
-
+#### HTML Superscripts, Subscripts and Small Text
 
 
 
