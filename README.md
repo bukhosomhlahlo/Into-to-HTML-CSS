@@ -3,7 +3,7 @@
 ## Unit 1
 ### Introduction to HTML
 HTML provides a structured framework for organizing and presenting information on the internet. Through a system of tags and elements, HTML allows developers to define the structure of a webpage, incorporating text, images, links and more. By understanding HTMl allows us to venture into web development, as it forms the basis for crafting visually appealing and functional websites. The websites can eiather be static or dynamic.
-#### HTML Text Formatting
+### HTML Text Formatting
 <p>HTML offers various tags for formatting text to enhance the appearance of and the structure of the content in the webpage. Following are some of the examples of formatting tags: 
   <ul>
   <li> "h1" to "h6" Are tags to define headings with different sizes</li>
@@ -63,3 +63,32 @@ Some elements serve as markers for something that is part of a larger entity, wh
 
 #### Date(Time) Elements
     By using the time element with its datetime attribute, we can convey time in a way that computers can understand.
+
+### HTML Code, pre and br
+<p> <ul> <li>In the <code>&lt;code&gt;</code> code element is used to define a piece of of the code. It is used  for displaying inline code snippets within a paragraph or block of text.</li> <li> In the <code>&lt;br&gt;</code> element is used to create a line break within content. It is a self-closing tab.</li> <li> In the <code>&lt;pre&gt;</code> element is used to define text. It preserves spacing, line breaks, and everything else.</li></ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
