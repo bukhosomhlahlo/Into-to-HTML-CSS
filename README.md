@@ -68,9 +68,10 @@ Some elements serve as markers for something that is part of a larger entity, wh
 
 #### HTML Superscripts, Subscripts and Small Text
 
-
-
-
+<p>In HTML, we use the flowing tags for superscipt, subscript, and small text:
+<ul><li> Supercript: <code>&lt;sup&gt;</code> tag. For Example <code>&lt;sup&gt;&lt;superscript&gt;&lt;/sup&gt;</code>. </li>
+<li> Subscript: <code>&lt;sub&gt; </code>tag. For Example <code>&lt;sub&gt;&lt;subrscript&gt;&lt;/sub&gt;</code>. </li>
+<li> Smalltext: <code>&lt;small&gt; </code>tag. For Example <code>&lt;small&gt;&lt;smalltext&gt;&lt;/small&gt;</code>. </li></ul>
 
 
 
