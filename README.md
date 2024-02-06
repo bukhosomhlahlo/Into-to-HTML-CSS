@@ -51,15 +51,15 @@ Some elements serve as markers for something that is part of a larger entity, wh
 
 #### Date Elements
 
-![image](https://github.com/bukhosomhlahlo/Into-to-HTML-CSS/assets/159022974/4984956c-eb3b-41e1-82cb-230cb138ae34)
-The datetime attribute allows us to specify the date or time in a format that computers can understand. We write it like this: <time datetime="2025-05-08">May 8, 2025</time> as also shown in the above figure. For instance, May 8th is represented as 05, 08. Regardless of how we humans phrase the year, the machine-readable version in the datetime attribute is written as 2025-05-08. It starts with the year, four digits, followed by the month in two digits, and then the date in two digits. However, sometimes we may only have the month and year, or just the year. 
+      ![image](https://github.com/bukhosomhlahlo/Into-to-HTML-CSS/assets/159022974/4984956c-eb3b-41e1-82cb-230cb138ae34)
+      The datetime attribute allows us to specify the date or time in a format that computers can understand. 
 
 #### Time Elements
 
 ![image](https://github.com/bukhosomhlahlo/Into-to-HTML-CSS/assets/159022974/d66d9572-6aeb-4aff-a323-cfab73a8c655)
 
-In HTML the "time" element represents the specific period of time or a preciese datetime. It can be used to mark up dates, times, durations, and machne- readable time values.We can specify the time zone, such as 15:45 -05:00, which means 3:45 PM in the time zone that is five hours behind Greenwich Mean Time (GMT), like New York City's time zone.
-The machine-readable version prefers numbers in the 24-hour clock format, and we can choose whether to include seconds and fractions of a second or not. 
+      In HTML the "time" element represents the specific period of time or a preciese datetime. It can be used to mark up dates, times, durations, and machne- readable time values.
+      The machine-readable version prefers numbers in the 24-hour clock format, and we can choose whether to include seconds and fractions of a second or not. 
 
 #### Date(Time) Elements
-By using the time element with its datetime attribute, we can convey time in a way that computers can understand.
+    By using the time element with its datetime attribute, we can convey time in a way that computers can understand.
