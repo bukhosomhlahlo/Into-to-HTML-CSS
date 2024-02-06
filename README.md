@@ -6,22 +6,22 @@ HTML provides a structured framework for organizing and presenting information o
 #### HTML Text Formatting
 <p>HTML offers various tags for formatting text to enchance the appearance of and the structure of the content in the webpage. Following are some of the examples of formatting tags: 
   <ul>
-  <li> h1 to <h6> Are tags to define headings with different sizes</li>
-  <li> p  Enclosing a paragraph of text within tags."</li>
-  <li> strong or b To make text bold.</li>
-  <li> Use em or i tags to initialise text to italics.</li>
-  <li> For underlining we use u tags although it is not a standard HTML tags</li>
-  <li> We use s or del tags to strike through text</li>
+  <li> "h1" to "h6" Are tags to define headings with different sizes</li>
+  <li> "p"  Enclosing a paragraph of text within tags."</li>
+  <li> "strong" or "b" To make text bold.</li>
+  <li> Use "em" or "i" tags to initialise text to italics.</li>
+  <li> For underlining we use "u" tags although it is not a standard HTML tags</li>
+  <li> We use "s" or "del" tags to strike through text</li>
   </ul>
 </p>
-####HTML Lists
+### HTML Lists
 <p>In HTML, there are three types of lists: unordered lists, ordered lists, and definition lists. Unordered and ordered lists are quite similar, except for the wrapping element they use. Unlike unordered or ordered lists with their list items, the <b>definition list</b> is used when we want to create a list that resembles a key-value pair in computer science. Instead of just items, we have terms and their corresponding descriptions.
 </p> 
-#####Unordered lists 
+#### Unordered lists 
     <p>
       We use the "ul" tag to create an unordered list, where each item is represented by the "li" tag.
     </p>
-#####Ordered lists 
+#### Ordered lists 
     <p>
     We use the "ol" tag to create an ordered list, where each item is represented by the "li" tag. The items in the ordered list are automatically numbered.
     </p>
