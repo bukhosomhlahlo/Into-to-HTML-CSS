@@ -14,18 +14,26 @@ HTML provides a structured framework for organizing and presenting information o
   <li> We use "s" or "del" tags to strike through text</li>
   </ul>
 </p>
+
 #### HTML Lists
+
 <p>In HTML, there are three types of lists: unordered lists, ordered lists, and definition lists. Unordered and ordered lists are quite similar, except for the wrapping element they use. Unlike unordered or ordered lists with their list items, the <b>definition list</b> is used when we want to create a list that resembles a key-value pair in computer science. Instead of just items, we have terms and their corresponding descriptions.
 </p> 
+
 #### Unordered lists
+
     <p>
       We use the "ul" tag to create an unordered list, where each item is represented by the "li" tag.
     </p>
-####### Ordered lists 
+    
+#### Ordered lists 
+
     <p>
     We use the "ol" tag to create an ordered list, where each item is represented by the "li" tag. The items in the ordered list are automatically numbered.
     </p>
+    
 #### Definition lists
+
     <p>
     To create a definition list, we use specific elements. The term or key is enclosed in a "dt" tag, which stands for definition term. The description or value is enclosed in a "dd" tag, which stands for definition description. We can have multiple descriptions for each term by using multiple  tags. The entire list is wrapped in a "dl" tag, representing the definition list. Interestingly, the "dd" tags and ""dt" tags are placed side by side without any additional wrapper around them. This is simply how a definition list is structured. 
     </p>
