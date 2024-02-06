@@ -28,5 +28,5 @@ HTML provides a structured framework for organizing and presenting information o
 
 #### HTML Quotes
 Introducing the quotes. We use the "blockquote" tag for longer quotationsand the "q" tag for the shorther quotation. To attribute the quote to the cited individuals, we can use the "cite" element. And to distinguish the quote from the surrounding text, we can wrap the whole thing in "blockquote" or "q"  element. These three elements, "cite", "blockquote" and "q", serve a semantic purpose. They inform other computers, "Hey, this is what this is." Additionally, they provide a convenient way to apply custom styling. With CSS, we can make these elements look however we want. We can make blockquotes stand out and give them a special appearance.
-#### An example of using blockquotes or q in context
-In this example, inside the "q" element, we have two paragraphs and the "cite" element. But we can include any element we want within the blockquote. We can even put a list or a headline in there. The important thing is that elements should be nested within each other in a way that makes sense.
+  #### An example of using blockquotes or q in context
+    In this example, inside the "q" element, we have two paragraphs and the "cite" element. But we can include any element we want within the blockquote. We can even put a list or a headline in there. The important thing is that elements should be nested within each other in a way that makes sense.
