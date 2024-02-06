@@ -31,4 +31,6 @@ HTML provides a structured framework for organizing and presenting information o
 </p>
 
   #### An example of using blockquotes or q in context
+  ![image](https://github.com/bukhosomhlahlo/Into-to-HTML-CSS/assets/159022974/0d7b0d35-3fa8-45e0-906e-2f81650cf954)
+
       In this example, inside the "q" element, we have two paragraphs and the "cite" element. But we can include any element we want within the blockquote. We can even put a list or a headline in there. The important thing is that elements should be nested within each other in a way that makes sense.
