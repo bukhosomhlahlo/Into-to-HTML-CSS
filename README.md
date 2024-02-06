@@ -51,12 +51,10 @@ Some elements serve as markers for something that is part of a larger entity, wh
 
 #### Date Elements
 
-      ![image](https://github.com/bukhosomhlahlo/Into-to-HTML-CSS/assets/159022974/4984956c-eb3b-41e1-82cb-230cb138ae34)
       The datetime attribute allows us to specify the date or time in a format that computers can understand. 
 
 #### Time Elements
 
-![image](https://github.com/bukhosomhlahlo/Into-to-HTML-CSS/assets/159022974/d66d9572-6aeb-4aff-a323-cfab73a8c655)
 
       In HTML the "time" element represents the specific period of time or a preciese datetime. It can be used to mark up dates, times, durations, and machne- readable time values.
       The machine-readable version prefers numbers in the 24-hour clock format, and we can choose whether to include seconds and fractions of a second or not. 
