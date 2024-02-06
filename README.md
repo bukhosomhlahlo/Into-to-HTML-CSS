@@ -27,4 +27,4 @@ HTML provides a structured framework for organizing and presenting information o
     To create a definition list, we use specific elements. The term or key is enclosed in a "dt" tag, which stands for definition term. The description or value is enclosed in a "dd" tag, which stands for definition description. We can have multiple descriptions for each term by using multiple  tags. The entire list is wrapped in a "dl" tag, representing the definition list. Interestingly, the "dd" tags and ""dt" tags are placed side by side without any additional wrapper around them. This is simply how a definition list is structured. 
 
 #### HTML Quotes
-
+Itroducing the quotes. We use the "blockquote" tag for longer quotationsand the "q" tag for the shorther quotation. To attribute the quote to the cited individuals, we can use the "cite" element. And to distinguish the quote from the surrounding text, we can wrap the whole thing in "blockquote" or "q"  element. 
