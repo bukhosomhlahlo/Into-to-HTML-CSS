@@ -85,8 +85,14 @@ Some elements serve as markers for something that is part of a larger entity, wh
 
 #### HTML attributes
 
+<p>HTMl attributes provide additional information about HTML elements and can modify their behavior or appearance. The are the four most important Global Attributes: "class," "id," "lang," and "dir." </p>
 
-
+<ul><li><strong>class:</strong> Specifies one or more class names for an element and are used to apply CSS styles or Javascriot functionality. For example: &lt;div class="codepushers"&gt;...&at;div&gt;.</li>
+<li><strong>id:</strong> Specifies the unique identifier for an element within a document and provide a way to name HTML elements and reference them in other parts of the code stack. For example &lt;div id="myDiv"&gt;...&at;div&gt;.</li>
+<li><strong>lang:</strong> In HTML, the "lang" attribute is used to specify the primary language of the content within an element. This attribute help browsers  and search engines understand the language of the text, which is important for accessibility and search engine optimization (SEO).For example: <code>&lt;p lang= "en"&gt This is English text. &lt;/p&gt</code></li>
+<li><strong>dir:</strong> The "dir" attribute is used to specify the text directionality of the content within an elememnt. It can have two possible values: <ol><li><strong>ltr:</strong> Indicated left-to-right text direction which is the default direction for the most languages. For example <code>&lt;div dir= "ltr"&gt This is left-to-right. &lt;/div&gt</code></li>
+<li><strong>rtl</strong> indicates right-to-left dirction, commonly used for languages such as Arabi,Hebrew and more. For axamlpe: <code>&lt;div dir= "rtl"&gt هذا من اليمين إلى اليسار &lt;/div&gt</code></li></ol>
+</ul>
 
 
 
