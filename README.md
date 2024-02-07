@@ -98,10 +98,9 @@ Some elements serve as markers for something that is part of a larger entity, wh
 
 HTML does not pay much attention to spaces, tabs, or line breaks? Even inbetween the spaces in sentences and also in paragraphs. The web browser ignores them. The comment written in the code by the programmer are disregarded by the browser. When writing the code the browser support is not affected either we use upper case or lower case. There are still ancient websites with all-caps HTML, and there are also newer sites that never use capital letters.
 
-####
+#### Unusual Characters
 
-
-
+In HTML , there are certaincharacter the have special meanings and  need to be represented using character entities to display correctly. However, if we start writing something that resembles an HTML element, it magically disappears. The browser assumes that it is part of HTML code and does not display it.These are some of the characters:<ul><li>"<" - less than sign: <code>&lt ;</code></li><li>">" - greater than sign: <code>&gt ;</code></li><li>"&" - Ampersand: <code>&amp ;</code></li><li>""" - Double quotation mark: <code>&lquot ;</code></li><li>"'" - Single quotation mark: <code>&apos ; or &#39 ;</code></li></ul>
 
 
 
