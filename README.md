@@ -112,4 +112,6 @@ To create a link we use an '&lt;a href&gt;' anchor element and hypertext referen
 
 In HTML we can use the <i>relative</i> and <i>absolute</i> pathways to specify the location of resources auch as images, videos, stylesheets(CSS), scripts, or links to the other pages.'<ul><li> The relative pathway are specified relative to the current location of the HTML document. For example &lt;img src="image.jpg"&gt;</li><li> The absolute pathway specify the full URL or path to the resource, starting from the root directory of the website. For example: &lt;img src="http://www.codepushers.com/images/image.jpg"&gt;.</li></ul><p>By using folders and index.html files, we can create clean and user-friendly URLs.</p>
 
+#### Navigation Bars 
 
+<p> Navigaton bars are commonly used in websites to provide users with easy accessto different sections or pages. They are implemented using HTML and CSS.
