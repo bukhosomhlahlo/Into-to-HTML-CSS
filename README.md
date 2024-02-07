@@ -108,5 +108,6 @@ In HTML , there are certaincharacter the have special meanings and  need to be r
 
 To create a link we use an '&lt;a href&gt;' anchor element and hypertext reference. An example of the basic syntax: &lt; a href="URL"&gt; Link Text &lt;/a&gt;. The "URL" is repplaced with the destination URL we want to link the point to, and the "Link Text" with the text we want to display for the link. For Example &lt; a href="//www.codepushers.com"&gt; Visit CodePushers website&lt;/a&gt;.<p>The standard HTTPS://codepushers.com is commonly used, but URLs can offer more flexibility. Absolute URLs, which include the entire URL when linking to another website or page, are versatile and precise. They must contain HTTP or HTTPS, defining communication rules on the web. HTTPS, denoting "Secure," is now recommended for improved security compared to HTTP. Modern browsers automatically add HTTPS:// to web addresses like codepushers.com.
 
+#### HTML URL Pathways
 
-
+In HTML we can use the <i>relative</i> and <i>absolute</i> pathways to specify the location of resources auch as images, videos, stylesheets(CSS), scripts, or links to the other pages.'<ul><li> The relative pathway are specified relative to the current location of the HTML document. For example &lt;img src="image.jpg"&gt;</li><li> The absolute pathway specify the full URL or path to the resource, starting from the root directory of the website. For example: &lt;img src="http://www.codepushers.com/images/image.jpg"&gt;.</li></ul>
