@@ -102,5 +102,9 @@ HTML does not pay much attention to spaces, tabs, or line breaks? Even inbetween
 
 In HTML , there are certaincharacter the have special meanings and  need to be represented using character entities to display correctly. However, if we start writing something that resembles an HTML element, it magically disappears. The browser assumes that it is part of HTML code and does not display it.These are some of the characters:<ul><li>"<" - less than sign: <code>&lt ;</code></li><li>">" - greater than sign: <code>&gt ;</code></li><li>"&" - Ampersand: <code>&amp ;</code></li><li>""" - Double quotation mark: <code>&lquot ;</code></li><li>"'" - Single quotation mark: <code>&apos ; or &#39 ;</code></li></ul>
 
+## Unit 4
 
+### HTML Navigation and Linking
+
+To create a link we use an '&lt;&gt;' anchor element. An example of the basic syntax: &lt; a href="URL"&gt; Link Text &lt;/a&gt;. The "URL" is repplaced with the destination URL we want to link the point to, and the "Link Text" with the text we want to display for the link. For Example &lt; a href="//www.codepushers.com"&gt; Visit CodePushers website&lt;/a&gt;.
 
