@@ -106,5 +106,7 @@ In HTML , there are certaincharacter the have special meanings and  need to be r
 
 ### HTML Navigation and Linking
 
-To create a link we use an '&lt;&gt;' anchor element. An example of the basic syntax: &lt; a href="URL"&gt; Link Text &lt;/a&gt;. The "URL" is repplaced with the destination URL we want to link the point to, and the "Link Text" with the text we want to display for the link. For Example &lt; a href="//www.codepushers.com"&gt; Visit CodePushers website&lt;/a&gt;.
+To create a link we use an '&lt;a href&gt;' anchor element and hypertext reference. An example of the basic syntax: &lt; a href="URL"&gt; Link Text &lt;/a&gt;. The "URL" is repplaced with the destination URL we want to link the point to, and the "Link Text" with the text we want to display for the link. For Example &lt; a href="//www.codepushers.com"&gt; Visit CodePushers website&lt;/a&gt;.
+
+
 
