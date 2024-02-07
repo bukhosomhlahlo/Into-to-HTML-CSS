@@ -94,8 +94,11 @@ Some elements serve as markers for something that is part of a larger entity, wh
 <li><strong>rtl</strong> indicates right-to-left dirction, commonly used for languages such as Arabi,Hebrew and more. For axamlpe: <code>&lt;div dir= "rtl"&gt هذا من اليمين إلى اليسار &lt;/div&gt</code></li></ol>
 </ul>
 
+#### Formating HTML
 
+HTML does not pay much attention to spaces, tabs, or line breaks? Even inbetween the spaces in sentences and also in paragraphs. The web browser ignores them. The comment written in the code by the programmer are disregarded by the browser. When writing the code the browser support is not affected either we use upper case or lower case. There are still ancient websites with all-caps HTML, and there are also newer sites that never use capital letters.
 
+####
 
 
 
