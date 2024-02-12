@@ -126,3 +126,14 @@ In HTML we can use the <i>relative</i> and <i>absolute</i> pathways to specify t
       <li> "alt": attribute provides a text description of the image.</li>
         <li> we also adjust the the size of the image using CSS or HTML attributes like 'width' and 'height'.</li>
 </ul>
+
+#### Image Formats
+
+<p>There are several common image formats used on the web, Each with its own characteristics and best use cases. It is best to choose image formarts that provides a large amount of data to make the image look fantastic, but also want to minimize the data to ensure faster downloads and prevent excessive data usage for users. We aim for the highest possible quality with the smallest file size achievable.</p>
+
+#### Responsive Images
+
+<p>Responsive images are images that adapt to different screen sizes and resolutions to provide the best veiwing experience across various devices. Thee are several techniques for implementing responsive images in HTML:
+<ul>
+  
+</ul></p>
