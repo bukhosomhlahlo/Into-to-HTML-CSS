@@ -115,3 +115,14 @@ In HTML we can use the <i>relative</i> and <i>absolute</i> pathways to specify t
 #### Navigation Bars 
 
 <p> Navigaton bars are commonly used in websites to provide users with easy accessto different sections or pages. They are implemented using HTML and CSS.
+
+## Unit 5
+
+### Working with graphics and images 
+<p>When adding images we used the imgage element which is written as &lt;img src = "imgage.jpg" alt="Description of the image" width="300" height="200"&gt.
+<ul>
+  <li> &lt;img&gt;: is used to display images</li>
+    <li> "src": attribute specifies the path of to the image file</li>
+      <li> "alt": attribute provides a text description of the image.</li>
+        <li> we also adjust the the size of the image using CSS or HTML attributes like 'width' and 'height'.</li>
+</ul>
