@@ -147,7 +147,9 @@ On big screens, you want to show the whole field and the person's entire body, b
 #### Working With Audio
 
 <p> The audio element element has both an opening and a closing tag &lt;audio control src="Audios/audio.mp3"&gt; &lt;/audio&gt;.<p>
-  <h6>Working with the audio element<h6>
+  
+##### Working with the audio element<h6>
+    
 <p>![image](https://github.com/bukhosomhlahlo/Into-to-HTML-CSS/assets/159022974/7570ee6d-6aa2-429a-82bd-1ee9bfa1c305)
 <ul><li>We specify the audio file by using the &lt;source&gt; element within the %lt;audio&gt;.</li>
 <li>We use &lt;audio control&gt; attribute to add basic controls such as play, pause, and volume to the audio player</li>
