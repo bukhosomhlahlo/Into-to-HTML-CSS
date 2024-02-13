@@ -196,3 +196,7 @@ In HTML, the &lt;meta&gt; tag is used to provide metadata about the HTML documen
 <p><ul><li>The &lt;meta&gt; tag with the charset attribute specifies the character encoding for the HTML document.<li>
   <li>The &lt;meta&gt; tag with the viewport attribute is commonly used for responsive web design. It controls the width and scaling of the viewport on mobile devices.</li></ul></p>
   <p>Nowadays, Unicode, particularly UTF-8, is widely used. It is like a massive specification that encodes content to support a vast range of characters, scripts, and even emojis.</p>
+
+#### HTML Generic Elements, Div and Span
+
+&lt;div&gt; is used for creating block-level containers to group and style larger sections of content, while &lt;span&gt; is used for applying styles to smaller, inline sections of content within larger blocks of text. Both elements are essential for structuring and styling content on web pages.
