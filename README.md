@@ -154,9 +154,21 @@ On big screens, you want to show the whole field and the person's entire body, b
 <ul><li>We specify the audio file by using the &lt;source&gt; element within the %lt;audio&gt;.</li>
 <li>We use &lt;audio control&gt; attribute to add basic controls such as play, pause, and volume to the audio player</li>
 <li>&lt;audio control loop&gt; the 'loop' attribute i used to make the audio play repeatedly as soon as it reaches the end and will star over again</li>
-<li>&lt;audion control autoplay&gt; attribute is used to make the audion to start playing automatically when the page loads</li></ul></p> 
+<li>&lt;audio control autoplay&gt; attribute is used to make the audion to start playing automatically when the page loads</li></ul></p> 
 <strong><em>When we create multiple files and list them in separate source elements, and the browser will use the first compatible file in the list.</em></strong>
   
 #### Working With Video
 
 <p>Video files can be encoded using a variety of codecs, just as image formats such as PNG, JPEG, GIF, or SVG. Video files include a great amount of data, which if not compressed, makes them too big to be efficiently transferred over the internet. Internet videos, as a result, utilize a technology to compress</p>
+
+#### Working With Captions and Subtitles
+
+<p>To work with subtitles and captions in HTML video element we use the &lt;track&gt; element. This allows us to provide timed text tracks that can include subtitles, captions, descriptions, chapters, metadata for video content.
+  ![image](https://github.com/bukhosomhlahlo/Into-to-HTML-CSS/assets/159022974/86dd1f62-e404-4942-ac54-d0d6f67bfae7)
+
+<ul><li>&lt;track&gt; is used to specify a timed text track for the video.
+</li>
+<li>The 'src' attribute specifies the URL of the  subtitle file. This filr should be in WebVTT(.vtt)</li>
+<li>The 'kind' attribute specifies the kind of text track. For subtitles and captions, we use 'kind="subtles"'</li>
+<li>The 'srclang' attribute specifies the language of the subtitle track</li>
+<li>The 'label' attribute provides a label for the subtitle track, which is displayed in the browser's settings menu.</li></ul></p>
