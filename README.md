@@ -139,3 +139,22 @@ On big screens, you want to show the whole field and the person's entire body, b
 <p>Within the picture element, list alternative options using the source &lt;souce srcset&gt; element. In this instance, we provide two options by creating two source elements.</p>
 #### Figcaption and Figures
 <p> &lt;figure&gt; and &lt;figcaption&gt; are HTML elements used to markup content particularly for images, diagrams, illustrations, code snippets,etc. They provide structure to the content and improve accessibility. <ul><li>&lt;figure&gt; is used to contain the image</li><li>&lt;figcaption&gt; is used to provide a caption for the image</li></ul> </p>
+
+## Unit 6
+
+### HTML Working With Media
+
+#### Working With Audio
+
+<p> The audio element element has both an opening and a closing tag &lt;audio control src="Audios/audio.mp3"&gt; &lt;/audio&gt;.<p>
+  <h6>Working with the audio element<h6>
+<p>![image](https://github.com/bukhosomhlahlo/Into-to-HTML-CSS/assets/159022974/7570ee6d-6aa2-429a-82bd-1ee9bfa1c305)
+<ul><li>We specify the audio file by using the &lt;source&gt; element within the %lt;audio&gt;.</li>
+<li>We use &lt;audio control&gt; attribute to add basic controls such as play, pause, and volume to the audio player</li>
+<li>&lt;audio control loop&gt; the 'loop' attribute i used to make the audio play repeatedly as soon as it reaches the end and will star over again</li>
+<li>&lt;audion control autoplay&gt; attribute is used to make the audion to start playing automatically when the page loads</li></p> 
+<strong><em>When we create multiple files and list them in separate source elements, and the browser will use the first compatible file in the list.</em></strong>
+  
+#### Working With Video
+
+<p>Video files can be encoded using a variety of codecs, just as image formats such as PNG, JPEG, GIF, or SVG. Video files include a great amount of data, which if not compressed, makes them too big to be efficiently transferred over the internet. Internet videos, as a result, utilize a technology to compress</p>
