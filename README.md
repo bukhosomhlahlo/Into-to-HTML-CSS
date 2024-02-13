@@ -152,7 +152,7 @@ On big screens, you want to show the whole field and the person's entire body, b
 <ul><li>We specify the audio file by using the &lt;source&gt; element within the %lt;audio&gt;.</li>
 <li>We use &lt;audio control&gt; attribute to add basic controls such as play, pause, and volume to the audio player</li>
 <li>&lt;audio control loop&gt; the 'loop' attribute i used to make the audio play repeatedly as soon as it reaches the end and will star over again</li>
-<li>&lt;audion control autoplay&gt; attribute is used to make the audion to start playing automatically when the page loads</li></p> 
+<li>&lt;audion control autoplay&gt; attribute is used to make the audion to start playing automatically when the page loads</li></ul></p> 
 <strong><em>When we create multiple files and list them in separate source elements, and the browser will use the first compatible file in the list.</em></strong>
   
 #### Working With Video
