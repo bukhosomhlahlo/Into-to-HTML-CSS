@@ -133,7 +133,9 @@ In HTML we can use the <i>relative</i> and <i>absolute</i> pathways to specify t
 
 #### Responsive Images
 
-<p>Responsive images are images that adapt to different screen sizes and resolutions to provide the best veiwing experience across various devices. Thee are several techniques for implementing responsive images in HTML:
-<ul>
-  
-</ul></p>
+<p>Responsive images are images that adapt to different screen sizes and resolutions to provide the best veiwing experience across various devices. Thee are several techniques for implementing responsive images in HTML.
+<p>The source set '&lt;srcset&gt;' in the sizes attribute can be utilized to offer multiple image files to the browser, allowing it to decide which one to load and display.
+On big screens, you want to show the whole field and the person's entire body, but on small screens, you only want to focus on her face. Just using the image element alone will not cut it, even if you add some attributes like source set or size. That is where the &lt;picture&gt; element comes into play.</p>
+<p>Within the picture element, list alternative options using the source &lt;souce srcset&gt; element. In this instance, we provide two options by creating two source elements.</p>
+#### Figcaption and Figures
+<p> &lt;figure&gt; and &lt;figcaption&gt; are HTML elements used to markup content particularly for images, diagrams, illustrations, code snippets,etc. They provide structure to the content and improve accessibility. <ul><li>&lt;figure&gt; is used to contain the imageL</li><li>&lt;figcaption&gt; is used to provide a caption for the image</li></ul> </p>
