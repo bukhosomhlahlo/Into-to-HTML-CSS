@@ -172,3 +172,16 @@ On big screens, you want to show the whole field and the person's entire body, b
 <li>The 'kind' attribute specifies the kind of text track. For subtitles and captions, we use 'kind="subtles"'</li>
 <li>The 'srclang' attribute specifies the language of the subtitle track</li>
 <li>The 'label' attribute provides a label for the subtitle track, which is displayed in the browser's settings menu.</li></ul></p>
+
+#### Embedding Media via Iframes
+
+<p>Using &lt;iframe&gt; elements allows us to embed external content, such as videos, maps, social media posts, and more into the HTML document.
+<ul><li>For mbedding a Youtube video, we replace 'VIDEO_ID' in the 'src' attribute with the actual ID of the Youtube video we are embedding</li>
+<li> For embbeding a Google Map, we replace 'the_map_coordinates' in the 'src' attribute with the approprate map coordinated or place ID.
+
+## Unit 7
+
+### HTML Content Identification
+
+#### HTML Language Support 
+
