@@ -200,3 +200,10 @@ In HTML, the &lt;meta&gt; tag is used to provide metadata about the HTML documen
 #### HTML Generic Elements, Div and Span
 
 &lt;div&gt; is used for creating block-level containers to group and style larger sections of content, while &lt;span&gt; is used for applying styles to smaller, inline sections of content within larger blocks of text. Both elements are essential for structuring and styling content on web pages.
+
+## Unit 8
+### HTML Integration
+#### HTML Page
+<p>HTML and all the elements, attributes, roles, and tools used to mark up content on websites or web apps have been covered. HTML plays a major role in explaining what these things are, but it is not just limited to that.
+
+<li>Main: the main element represent the main content of the document.</li></p>
