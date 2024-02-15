@@ -329,4 +329,5 @@ The different input types are as follows:
 #### Building HTML Tables
 
 ![image](https://github.com/bukhosomhlahlo/Into-to-HTML-CSS/assets/159022974/a98a272e-36ad-40d4-989b-85f1c1b45868)
+<em>The authoritative standard for HTML is found on the LIVING STANDARD</em>
 
