@@ -206,4 +206,8 @@ In HTML, the &lt;meta&gt; tag is used to provide metadata about the HTML documen
 #### HTML Page
 <p>HTML and all the elements, attributes, roles, and tools used to mark up content on websites or web apps have been covered. HTML plays a major role in explaining what these things are, but it is not just limited to that.
 
-<li>Main: the main element represent the main content of the document.</li></p>
+<li>Main: the &lt;main&gt; element represent the main content of the document.</li>
+<li>Header: the &lt;head&gt; element represents introductoryy content, typyically containing headings, logos and navigation menus </li>
+<li>Footer: the &lt;footer&gt; element represents a footer section at the bottom of the page, containing, copyright notices, contact information and links to relative pages.</li>
+<li>Article: this element represents a contained piece of content that can be distributable or resusable such aS BLOG POST or NEWSPAPER article.</li>
+<li>Section: the &lt;section&gt; element defines a thematic grouping of content, typically with a heading</li></p>
