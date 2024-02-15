@@ -249,6 +249,35 @@ For the above image, the code for version G goes like this:          <p>&lt;form
                                                                      <p>&lt;/form&gt;</p>
 
 ![image](https://github.com/bukhosomhlahlo/Into-to-HTML-CSS/assets/159022974/e37dfa02-2bed-40c2-92f1-4ef3f0f69f6f)
+The <input> element is the most important form element.
+
+The <input> element can be displayed in several ways, depending on the type attribute.
+
+The different input types are as follows:
+
+&lt;input type="button"&gt;
+&lt;input type="checkbox"&gt;
+&lt;input type="color"&gt;
+&lt;input type="date"&gt;
+&lt;input type="datetime-local"&gt;
+&lt;input type="email"&gt;
+&lt;input type="file"&gt;
+&lt;input type="hidden"&gt;
+&lt;input type="image"&gt;
+&lt;input type="month"&gt;
+&lt;input type="number"&gt;
+&lt;input type="password"&gt;
+&lt;input type="radio"&gt;
+&lt;input type="range"&gt;
+&lt;input type="reset"&gt;
+&lt;input type="search"&gt;
+&lt;input type="submit"&gt;
+&lt;input type="tel"&gt;
+&lt;input type="text"&gt; (default value)
+&lt;input type="time"&gt;
+&lt;input type="url"&gt;
+&lt;input type="week"&gt;
+
 
 
 We can add three more fields: password, search, and phone number:
@@ -257,3 +286,37 @@ We can add three more fields: password, search, and phone number:
   <em>When we type into the password field, the browser will warn us not to use this textbox as the site is unsecured. That is because this page is set up to use HTTP and not HTTPS</em>
 <li>Phone Number: <p>&lt;label for="phone"&gt;Phone Number&lt;/label&gt;</p>
                   <p>&lt;input name="phone" id="phone" type="tel"&gt;</p></li>
+<li>Search: <p>&lt;label for="search"&gt;Search&lt;/label&gt;</p>
+                  <p>&lt;input name="search" id="search" type="search"&gt;</p></li>
+
+<qoute>The <input> tag specifies an input field where the user can enter data.
+
+The <input> element is the most important form element.
+
+The <input> element can be displayed in several ways, depending on the type attribute.
+
+The different input types are as follows:
+
+<input type="button">
+<input type="checkbox">
+<input type="color">
+<input type="date">
+<input type="datetime-local">
+<input type="email">
+<input type="file">
+<input type="hidden">
+<input type="image">
+<input type="month">
+<input type="number">
+<input type="password">
+<input type="radio">
+<input type="range">
+<input type="reset">
+<input type="search">
+<input type="submit">
+<input type="tel">
+<input type="text"> (default value)
+<input type="time">
+<input type="url">
+<input type="week">
+
