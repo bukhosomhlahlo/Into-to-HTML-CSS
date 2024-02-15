@@ -247,4 +247,13 @@ For the above image, the code for version G goes like this:          <p>&lt;form
                                                                      <p>&lt;input name="email" id="email" type="email" placeholder="me@example.com" &gt;</p>
                                                                      <p>&lt;button>Sign Up&lt;/button&gt;</p>
                                                                      <p>&lt;/form&gt;</p>
-                                                                    
+
+![image](https://github.com/bukhosomhlahlo/Into-to-HTML-CSS/assets/159022974/e37dfa02-2bed-40c2-92f1-4ef3f0f69f6f)
+
+
+We can add three more fields: password, search, and phone number:
+<li>Password: <p>&lt;label for="password"&gt;Password&lt;/label&gt;</p>
+              <p>&lt;input name="password" id="password" type="password"&gt;</p></li>
+  <em>When we type into the password field, the browser will warn us not to use this textbox as the site is unsecured. That is because this page is set up to use HTTP and not HTTPS</em>
+<li>Phone Number: <p>&lt;label for="phone"&gt;Phone Number&lt;/label&gt;</p>
+                  <p>&lt;input name="phone" id="phone" type="tel"&gt;</p></li>
