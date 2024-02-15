@@ -224,6 +224,6 @@ In HTML, the &lt;meta&gt; tag is used to provide metadata about the HTML documen
 ### Working with Forms and Interactive Elements
 #### Form Fundamentals
 
-<p>Forms are used to collect user input. They are created using the &lt;form&gt; element and contain various input elements like'text-fields, checkboxes, radio buttons, dropdown menus and others not mentioned. The submit button is contained as it is used to send data to the server for processing. Below are the example of how forms are used for</p>: 
-<a href= "https://github.com/bukhosomhlahlo/Into-to-HTML- CSS/assets/159022974/7f601540-b1d3-44f5-a3d2-9ce9f8e48b9a">
+<p>Forms are used to collect user input. They are created using the &lt;form&gt; element and contain various input elements like'text-fields, checkboxes, radio buttons, dropdown menus and others not mentioned. The submit button is contained as it is used to send data to the server for processing. Below are the example of how forms are used for:</p> 
+<a href= "https://github.com/bukhosomhlahlo/Into-to-HTML- CSS/assets/159022974/7f601540-b1d3-44f5-a3d2-9ce9f8e48b9a"></a>
 
