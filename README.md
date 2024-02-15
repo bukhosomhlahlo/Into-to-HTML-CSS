@@ -240,11 +240,11 @@ Adding a "for" attribute to the label that matches the "id" attribute of the inp
 Wraping the input with the label. 
 Both methods work, and it is a matter of choosing the desired markup structure. You can test the connection by clicking on the label and ensuring that the focus jumps to the corresponding input. This is crucial for accessibility, as many people rely on this connection. Clicking on the label is a quick way to verify its functionality. 
 
-For the above image, the code for version G goes like this:  &lt;form action="sucess.html" method="get"&gt;
-                                                                    &lt;label for="name"&gt;Name&lt;/label&gt;
-                                                                    &lt;input name="name" id="name" type="text"&gt;
-                                                                    &lt;label for="email"&gt;Email&lt;/label&gt;
-                                                                    &lt;input name="email" id="email" type="email" placeholder="me@example.com" &gt;
-                                                                    &lt;button>Sign Up&lt;/button&gt;
-                                                                    &lt;/form&gt;
+For the above image, the code for version G goes like this:     <li>&lt;form action="sucess.html" method="get"&gt;</li>
+                                                                   <li>  &lt;label for="name"&gt;Name&lt;/label&gt;</li>
+                                                                   <li>  &lt;input name="name" id="name" type="text"&gt;</li>
+                                                                   <li>  &lt;label for="email"&gt;Email&lt;/label&gt;</li>
+                                                                    <li> &lt;input name="email" id="email" type="email" placeholder="me@example.com" &gt;</li>
+                                                                    <li> &lt;button>Sign Up&lt;/button&gt;</li>
+                                                                    <li> &lt;/form&gt; </li>
                                                                     
