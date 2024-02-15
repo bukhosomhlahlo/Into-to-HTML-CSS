@@ -226,4 +226,15 @@ In HTML, the &lt;meta&gt; tag is used to provide metadata about the HTML documen
 
 <p>Forms are used to collect user input. They are created using the &lt;form&gt; element and contain various input elements like'text-fields, checkboxes, radio buttons, dropdown menus and others not mentioned. The submit button is contained as it is used to send data to the server for processing. Below are the example of how forms are used for:
 ![image](https://github.com/bukhosomhlahlo/Into-to-HTML-CSS/assets/159022974/7381d99b-3a78-466b-b5e8-995ece6417a2) 
+We use the input element to provide places for users to input their name and email. The input element does not have a closing tag due to its older structure. It acts as a marker for the browser to bring in functionality and place it there. 
+
+A button is needed for users to submit the form. We use the button element for this. The text on the button can be customized to whatever is required. Although the form looks good visually, it currently lacks functionality. To make it work, we need to connect it to a backend. We can add an action and method attribute to make a demo work, although using the "get" method is not secure and is not recommended for real websites.
+
+Once set up, land on the response page, but the data that was entered does not appear. This is because the input fields need a "name" attribute to report the data. Add "name=name" to the first input element and "name=email" to the second. The name attribute can be customized as desired. After making these changes, the form works successfully, but only if you interact with it using a screen and a mouse. 
+
+To make it accessible to everyone, we need to address the issue of the label and input elements not being connected. There are two options to achieve this. 
+
+Adding a "for" attribute to the label that matches the "id" attribute of the input. 
+Wraping the input with the label. 
+Both methods work, and it is a matter of choosing the desired markup structure. You can test the connection by clicking on the label and ensuring that the focus jumps to the corresponding input. This is crucial for accessibility, as many people rely on this connection. Clicking on the label is a quick way to verify its functionality. 
 
