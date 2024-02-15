@@ -255,28 +255,28 @@ The <input> element can be displayed in several ways, depending on the type attr
 
 The different input types are as follows:
 
-&lt;input type="button"&gt;
-&lt;input type="checkbox"&gt;
-&lt;input type="color"&gt;
-&lt;input type="date"&gt;
-&lt;input type="datetime-local"&gt;
-&lt;input type="email"&gt;
-&lt;input type="file"&gt;
-&lt;input type="hidden"&gt;
-&lt;input type="image"&gt;
-&lt;input type="month"&gt;
-&lt;input type="number"&gt;
-&lt;input type="password"&gt;
-&lt;input type="radio"&gt;
-&lt;input type="range"&gt;
-&lt;input type="reset"&gt;
-&lt;input type="search"&gt;
-&lt;input type="submit"&gt;
-&lt;input type="tel"&gt;
-&lt;input type="text"&gt; (default value)
-&lt;input type="time"&gt;
-&lt;input type="url"&gt;
-&lt;input type="week"&gt;
+<p>&lt;input type="button"&gt;</p>
+<p>&lt;input type="checkbox"&gt;</p>
+<p>&lt;input type="color"&gt;</p>
+<p>&lt;input type="date"&gt;</p>
+<p>&lt;input type="datetime-local"&gt;</p>
+<p>&lt;input type="email"&gt;</p>
+<p>&lt;input type="file"&gt;</p>
+<p>&lt;input type="hidden"&gt;</p>
+<p>&lt;input type="image"&gt;</p>
+<p>&lt;input type="month"&gt;</p>
+<p>&lt;input type="number"&gt;</p>
+<p>&lt;input type="password"&gt;</p>
+<p>&lt;input type="radio"&gt;</p>
+<p>&lt;input type="range"&gt;</p>
+<p>&lt;input type="reset"&gt;</p>
+<p>&lt;input type="search"&gt;</p>
+<p>&lt;input type="submit"&gt;</p>
+<p>&lt;input type="tel"&gt;</p>
+<p>&lt;input type="text"&gt; (default value)</p>
+<p>&lt;input type="time"&gt;</p>
+<p>&lt;input type="url"&gt;</p>
+<p>&lt;input type="week"&gt;</p>
 
 
 
