@@ -218,3 +218,11 @@ In HTML, the &lt;meta&gt; tag is used to provide metadata about the HTML documen
 <ol><li>&lt;link&gt;: this elemtnt is used to link external resources such as stylesheets to an HTML document. It is is commonly uased to apply CSS sty;es to the HTML document.</li>
   <li>&lt;script&gt;: this element is used to include Javascrpt code or spripts within an HTML document. It can either contain the script directly with the element or reference an eternal script file using the 'src' attribute.</li></ol>
 </p>
+
+## Unit 9
+
+### Working with Forms and Interactive Elements
+#### Form Fundamentals
+
+<p>Forms are used to collect user input. They are created using the &lt;form&gt; element and contain various input elements like'text-fields, checkboxes, radio buttons, dropdown menus and others not mentioned. The submit button is contained as it is used to send data to the server for processing. Below are the example of how forms are used for: ![image](https://github.com/bukhosomhlahlo/Into-to-HTML- CSS/assets/159022974/7f601540-b1d3-44f5-a3d2-9ce9f8e48b9a)
+</p>
