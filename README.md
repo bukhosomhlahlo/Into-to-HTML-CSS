@@ -211,3 +211,10 @@ In HTML, the &lt;meta&gt; tag is used to provide metadata about the HTML documen
 <li>Footer: the &lt;footer&gt; element represents a footer section at the bottom of the page, containing, copyright notices, contact information and links to relative pages.</li>
 <li>Article: this element represents a contained piece of content that can be distributable or resusable such aS BLOG POST or NEWSPAPER article.</li>
 <li>Section: the &lt;section&gt; element defines a thematic grouping of content, typically with a heading</li></p>
+
+#### The Link and Script element
+
+<p>Both &lt;link&gt; and &lt;script&gt; elements are used to include external resources, but they server different purposes:
+<ol><li>&lt;link&gt;: this elemtnt is used to link external resources such as stylesheets to an HTML document. It is is commonly uased to apply CSS sty;es to the HTML document.</li>
+  <li>&lt;script&gt;: this element is used to include Javascrpt code or spripts within an HTML document. It can either contain the script directly with the element or reference an eternal script file using the 'src' attribute.</li></ol>
+</p>
