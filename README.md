@@ -320,3 +320,13 @@ The different input types are as follows:
 <input type="url">
 <input type="week">
 
+## Unit 10
+### Organizing Tabular Information in HTML
+#### HTML Tables
+
+<p>HTML tables are used for tabular data, for example in HTML email. HTML tables are used for structuring HTML emails due to their reliability and compatibility across email clients. Comparing prices of things that are for sale, population data by town, election results, product comparisons, schedules, bits of information collected that people want to quickly compare. This is what tables are for. The data might be numbers but not always. It could even be text, images or other things.</p>
+
+#### Building HTML Tables
+
+![image](https://github.com/bukhosomhlahlo/Into-to-HTML-CSS/assets/159022974/a98a272e-36ad-40d4-989b-85f1c1b45868)
+
