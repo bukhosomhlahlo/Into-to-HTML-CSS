@@ -343,5 +343,13 @@ The different input types are as follows:
   padding: 20 px;
   }
 <p>
+  
+#### Group Selectors
+
+We use group selctor so that we do not write separate styles for each period p {blue;} and li {blue}. We can combine them using a p,li{blue}. The web browser will apply this style to all paragraphs and list items, assessing them independently. 
+
+#### Descendent Selectors
+
+When working with CSS selectors that involve multiple terms, it is important to remember that they are read from right to left, even though we write them from left to right. In this case, we are saying "any list item descended from an ordered list
 
 
