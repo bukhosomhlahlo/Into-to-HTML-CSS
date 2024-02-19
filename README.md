@@ -335,6 +335,13 @@ The different input types are as follows:
 ## Unit 1
 ### HTML and CSS
 <p> CSS is divided into two parts: <ol><li>The Selector</li><li>the decleration block</li></ol></p>
-<p>The selector specifies a pattern in the HTML and if the parttern matches, the styles within the decleration block are applied to tyhe correspondin HTML elements</p>
+<p>The selector specifies a pattern in the HTML and if the parttern matches, the styles within the decleration block are applied to the correspondin HTML elements</p>
+
+#### Writing a class selector
+<p>In HTML, we define a alass attribute within an element, and in CSS, we use period followed by by(.) the class name to style elements with that class. For example: &lt;div class="example"&gt; &lt!--adding a class attribute to the div element--&gt;. For CSS: .example{
+  background-color: grey;
+  padding: 20 px;
+  }
+<p>
 
 
