@@ -331,3 +331,10 @@ The different input types are as follows:
 ![image](https://github.com/bukhosomhlahlo/Into-to-HTML-CSS/assets/159022974/a98a272e-36ad-40d4-989b-85f1c1b45868)
 <em>The authoritative standard for HTML is found on the LIVING STANDARD</em>
 
+# Intro-to-CSS
+## Unit 1
+### HTML and CSS
+<p> CSS is divided into two parts: <ol><li>The Selector</li><li>the decleration block</li></ol></p>
+<p>The selector specifies a pattern in the HTML and if the parttern matches, the styles within the decleration block are applied to tyhe correspondin HTML elements</p>
+
+
