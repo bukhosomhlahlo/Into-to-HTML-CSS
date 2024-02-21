@@ -373,7 +373,7 @@ These combinations help you locate colors that match. We can change the saturati
 
 <p>After selecting online the color pallete, we can now add id to our webpage as we have done before in in HTML but this time around we wont be using inline styling. The most common way to represent colors online is through hex codes, also known as hex values or hex format. Hex is short for hexadecimal.</p> <p>Hexadecimal values are generally six-digit long and comprise of numerals 0-9 and letters A-F. The first two digits signify red, the next two represent green, and the last two represent blue. These digits correspond to integers from 0 to 255.</p>
 
-<em>The hex value "3337799" can be shortened to "379" if each two-digit pair is the same.<em>
+<em>The hex value "3337799" can be shortened to "379" if each two-digit pair is the same.</em>
 
 #### Other Color Formats
 
