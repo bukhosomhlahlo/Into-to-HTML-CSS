@@ -403,9 +403,10 @@ These combinations help you locate colors that match. We can change the saturati
 #### Common Font Types
 
 <p> Two of the most recognizable fonts are:<ul><li><u>Serif</u> - fonts include tiny lines at the ends of each letter called serifs. Previously, serif typefaces were utilized for printed items with lengthy text blocks. When letters were manually placed on a printing press, they were never exactly aligned. The serifs connected the letters, making the text simpler to read.</li>
-<li><u>Sans serif</u> -  fonts lack serifs and offer a more contemporary appearance. Sans serif fonts are commonly used on the web for lengthy content due to their clean appearance and ease of readability.</li></ul>
+<li><u>Sans serif</u> -  fonts lack serifs and offer a more contemporary appearance. Sans serif fonts are commonly used on the web for lengthy content due to their clean appearance and ease of readability.</li></ul></p>
 
- 
+<p> When a font is not specifically stated, the web page will utilize a font from the user's device. This limits font options when working with CSS. To assure compatibility, it is usual to define many typefaces at the same time, a technique known as font stacking.</p>
+ <tr><th>Absolute</th><th>Relative</th>tr>
 
 
 
