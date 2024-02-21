@@ -355,7 +355,14 @@ We use group selctor so that we do not write separate styles for each period p {
 
 #### Descendent Selectors
 
-When working with CSS selectors that involve multiple terms, it is important to remember that they are read from right to left, even though we write them from left to right. In this case, we are saying "any list item descended from an ordered list
+<p>When working with CSS selectors that involve multiple terms, it is important to remember that they are read from right to left, even though we write them from left to right. In this case, we are saying "any list item descended f0rom an ordered list.</p>
+
+## Unit 3
+### Identify a Color Scheme
+
+<p>When creating a website we can generate or create our own colors in CSS. The easiest way to fin colors for your wwebpage styling is to go to the color palette generator on Google and it will help you with the combination of colors. Which makes it easier for us not to memorize different colors.</p> If we come across an image that best suitable for the website and want to use its color scheme, simply upload it to Canva and we have just discovered a palette that suits the website.
+
+ 
 
 
 
