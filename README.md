@@ -408,5 +408,8 @@ These combinations help you locate colors that match. We can change the saturati
 <p> When a font is not specifically stated, the web page will utilize a font from the user's device. This limits font options when working with CSS. To assure compatibility, it is usual to define many typefaces at the same time, a technique known as font stacking.</p>
  <table><tr><th>Absolute</th><th>Relative</th></tr><tr><td>Points</td><td>Percentage</td></tr><tr><td>Pixels</td><td>Rems</td></tr><tr><td>Don't change size with screens</td><td>Change with screen size and zoom</td></tr></table>
 
+<p>In web design, there are two types of sizing: absolute and relative. Absolute sizes, such as points or pixels, remain the same regardless of the screen size.</p>
+<p>On the other hand, relative units like percentages or R-E-M (pronounced "rem") can adjust based on the page size. When I zoom in, the font sizes using relative units scale proportionally with the rest of the page. That is why web designers often prefer using relative units for better flexibility.</p>
+
 
 
