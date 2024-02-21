@@ -400,8 +400,10 @@ These combinations help you locate colors that match. We can change the saturati
 ## Unit 4
 ### Understanding Type in CSS
     
+#### Common Font Types
 
-
+<p> Two of the most recognizable fonts are:<ul><li><u>Serif</u> - fonts include tiny lines at the ends of each letter called serifs. Previously, serif typefaces were utilized for printed items with lengthy text blocks. When letters were manually placed on a printing press, they were never exactly aligned. The serifs connected the letters, making the text simpler to read.</li>
+<li><u>Sans serif</u> -  fonts lack serifs and offer a more contemporary appearance. Sans serif fonts are commonly used on the web for lengthy content due to their clean appearance and ease of readability.</li></ul>
 
  
 
