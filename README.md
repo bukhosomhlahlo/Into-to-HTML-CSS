@@ -375,6 +375,10 @@ These combinations help you locate colors that match. We can change the saturati
 
 <em>The hex value "3337799" can be shortened to "379" if each two-digit pair is the same.<em>
 
+#### Other Color Formats
+
+<p>Another syntax that we can use in CSS is the RGB, which specifies the red, green, and blue channels by writing colors out in Base 10 integers. This format can alternatively be expressed as an eight-digit hexadecimal number, or RGBA. In both situations, the final number (e.g., "CC" in the hex value or "0.8" in the RGB value) represents Alpha, which refers to the color's opacity and transparency. It influences how easily we can see through the color. Other color standards, such as HSL or HSLA, may be used on occasion, especially on platforms like Squarespace.</p>
+
 
 
  
