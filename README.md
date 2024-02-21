@@ -344,6 +344,11 @@ The different input types are as follows:
   }
 <p>
   
+## Unit 2
+### Writing a Class Selector
+
+<p> If we want the first paragraph to be green, we may add a class attribute to the paragraph element with a name such as "intro." This manner, it will stick out as the opening paragraph. CSS uses a dot (.) before the class name to distinguish it from HTML element selectors. Write ".intro" and change the color to green.<p>
+
 #### Group Selectors
 
 We use group selctor so that we do not write separate styles for each period p {blue;} and li {blue}. We can combine them using a p,li{blue}. The web browser will apply this style to all paragraphs and list items, assessing them independently. 
@@ -351,5 +356,6 @@ We use group selctor so that we do not write separate styles for each period p {
 #### Descendent Selectors
 
 When working with CSS selectors that involve multiple terms, it is important to remember that they are read from right to left, even though we write them from left to right. In this case, we are saying "any list item descended from an ordered list
+
 
 
