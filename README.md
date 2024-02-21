@@ -362,6 +362,19 @@ We use group selctor so that we do not write separate styles for each period p {
 
 <p>When creating a website we can generate or create our own colors in CSS. The easiest way to fin colors for your wwebpage styling is to go to the color palette generator on Google and it will help you with the combination of colors. Which makes it easier for us not to memorize different colors.</p> If we come across an image that best suitable for the website and want to use its color scheme, simply upload it to Canva and we have just discovered a palette that suits the website.
 
+![image](https://github.com/bukhosomhlahlo/Into-to-HTML-CSS/assets/159022974/ea9bc6b7-b797-49d2-9375-0b37adf41563)
+
+
+We may also experiment with different color combinations, such as monochromatic (two identical hues) and analogous (varying shades of greens and blues, or triadic, which generates a pattern on the color wheel using an equilateral triangle). Tetradic creates a square's worth of colors. 
+
+These combinations help you locate colors that match. We can change the saturation of the colors on the palette or try different variations.
+
+### Formatting Color in CSS
+
+<p>After selecting online the color pallete, we can now add id to our webpage as we have done before in in HTML but this time around we wont be using inline styling. The most common way to represent colors online is through hex codes, also known as hex values or hex format. Hex is short for hexadecimal.</p> <p>Hexadecimal values are generally six-digit long and comprise of numerals 0-9 and letters A-F. The first two digits signify red, the next two represent green, and the last two represent blue. These digits correspond to integers from 0 to 255.</p>
+
+
+
  
 
 
