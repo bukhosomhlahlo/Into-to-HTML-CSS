@@ -406,7 +406,7 @@ These combinations help you locate colors that match. We can change the saturati
 <li><u>Sans serif</u> -  fonts lack serifs and offer a more contemporary appearance. Sans serif fonts are commonly used on the web for lengthy content due to their clean appearance and ease of readability.</li></ul></p>
 
 <p> When a font is not specifically stated, the web page will utilize a font from the user's device. This limits font options when working with CSS. To assure compatibility, it is usual to define many typefaces at the same time, a technique known as font stacking.</p>
- <tr><th>Absolute</th><   th>Relative</th></tr><tr><td>Points</td><td>Percentage</td></tr>
+ <table><tr><th>Absolute</th><th>Relative</th></tr><tr><td>Points</td><td>Percentage</td></tr><tr><td>Pixels</td><td>Rems</td></tr><tr><td>Don't change size with screens</td><td>Change with screen size and zoom</td></tr></table>
 
 
 
