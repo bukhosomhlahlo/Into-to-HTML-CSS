@@ -379,6 +379,28 @@ These combinations help you locate colors that match. We can change the saturati
 
 <p>Another syntax that we can use in CSS is the RGB, which specifies the red, green, and blue channels by writing colors out in Base 10 integers. This format can alternatively be expressed as an eight-digit hexadecimal number, or RGBA. In both situations, the final number (e.g., "CC" in the hex value or "0.8" in the RGB value) represents Alpha, which refers to the color's opacity and transparency. It influences how easily we can see through the color. Other color standards, such as HSL or HSLA, may be used on occasion, especially on platforms like Squarespace.</p>
 
+### Background and Text Color in CSS
+
+<p>We use colors in text and background elements. We can choose a color for the text and another for the background, whether it is a specific element or the entire page.</p>
+
+### Understanding Images in CSS
+
+<p> <ol> <li>GIF:  Had limited colors but could include transparency and animation. </li>
+    <li>PNG:  Had more colors and transparency but no animation. GIF and PNG were suitable for illustrations such as logos or cartoons. </li>
+    <li>JPEG:  Stands for Joint Photographic Experts Group, was optimized for photographs and supported millions of colors but lacked transparency and animation.</li></ol></p>
+<p>WebP is a modern image format that provides superior lossless and lossy compression for images on the web. Using WebP, webmasters and web developers can create smaller, richer images that make the web faster. WebP lossless images are smaller in size compared to PNGs.</p>
+
+
+### Working with Background Images in CSS
+
+<p>For additional flexibility, use the shorthand property background rather than background-image. By using "repeat-X," the picture will only repeat horizontally. You may use "repeat-Y" to repeat it vertically. To indicate where the background picture begins, use values such as "center," "right," or "left." In addition, you may use "bottom" to move the image to the bottom of the page.
+
+<p>The background picture displays at the bottom of the text because the webpage's body height is determined by its content. To go around this, we may use a height number like "97vh" (97% of the viewport height) to put the picture where we want it. In this scenario, we want it near the bottom of the page, creating the appearance of dirt on the bottom. We may use the same background picture for other items on the page, such as a UL (unordered list), without specifying the height.</p>
+
+## Unit 4
+### Understanding Type in CSS
+    
+
 
 
  
