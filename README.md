@@ -409,7 +409,23 @@ These combinations help you locate colors that match. We can change the saturati
  <table><tr><th>Absolute</th><th>Relative</th></tr><tr><td>Points</td><td>Percentage</td></tr><tr><td>Pixels</td><td>Rems</td></tr><tr><td>Don't change size with screens</td><td>Change with screen size and zoom</td></tr></table>
 
 <p>In web design, there are two types of sizing: absolute and relative. Absolute sizes, such as points or pixels, remain the same regardless of the screen size.</p>
-<p>On the other hand, relative units like percentages or R-E-M (pronounced "rem") can adjust based on the page size. When I zoom in, the font sizes using relative units scale proportionally with the rest of the page. That is why web designers often prefer using relative units for better flexibility.</p>
+<p>On the other hand, relative units like percentages or R-E-M (pronounced "rem") can adjust based on the page size. When I zoom in, the font sizes using relative units scale proportionally with the rest of the page. That is why web designers often prefer using relative units for better flexibility.
+
+<em>"I prefer to use rems rather than px units because if the users adjust their base font size, everything in rem units adjust with it.
+This make the design more accessible and adaptable."</em></p>
+
+#### Understanding the Box Model in CSS
+
+The box model in CSS refers to how elements are rendered on a webpage. It consists of four main components:
+
+<p><ol><li>Content - is the actual content of the box, such as text, images, etc.</li>
+<li>Padding - is the spaces between and the border of and the content. It is used to create space within the element.</li>
+<li>Border - the border sorrounding the padding and the content. It can be styled with various properties like color, width, radius and style.</li>
+<li>Margin - The space  outside the border. It seperates the elements from the other elements on the page.</li></ol></p>
+
+Essentially, understanding these components helps with thw understanding and maniplation of these components and controlling layout and spacing in CSS. Below is the example of applying these components on CSS:
+![image](https://github.com/bukhosomhlahlo/Into-to-HTML-CSS/assets/159022974/d61eac1c-a6bb-44e3-81b8-0394c62ca52e)
+
 
 
 
