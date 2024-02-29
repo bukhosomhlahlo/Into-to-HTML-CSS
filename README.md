@@ -427,6 +427,23 @@ Essentially, understanding these components helps with thw understanding and man
 ![image](https://github.com/bukhosomhlahlo/Into-to-HTML-CSS/assets/159022974/d61eac1c-a6bb-44e3-81b8-0394c62ca52e)
 
 
+## Unit 5
+### Advanced CSS Properties and Concepts
+#### Styling links with CSS
 
+<p> The best way to style links is to target the navbar using 'a' anchor tag where you can change the color of the navbar. Generall the links are underlined so if you want them not underlined you can declare the text-decoration to none. Now, when we hover over the links, they change color and the underline disappears. This was not possible before without the hover style. </p>
+<p><b>There are different states for links, and we can make exceptions for each state<b></p>
+<p>When we want different styles for visited and unvisited links we can also attain that. We will have to Define the blue color as the "a:link" style for unvisited links, and the shade of purple (785ef0) as the "a:visited" style for visited links. If we clicke on any of the links on the website, they should now be in purple color. And, of course, the hover style is preserved when we roll our mouse over the links.</p>
 
+<p><em>We can either use "a" and then "a:hover" or "a:link," "a:visited," and "a:hover" in that specific order for the styling to work correctly.</em></p>
+<p>In general, when there are links within extensive text, they should be underlined. This is especially useful for persons who are colorblind or have conditions that make it difficult to distinguish between the link and the surrounding text. However, if the links are in a navigation bar or another area where consumers expect to click and be redirected, we can remove the underlining. These are just a few simple strategies for creating visually appealing web page connections.</p>
 
+### Inheritance in CSS
+
+<p>In CSS, inheritance refers to the mechanism by which properties of a parent element are passed down to its children unless overridden. Inheritence in CSS works with alll the below mentioned selectors. When we appply styles to a parent element, those styles are inherited by its children unless overridden. For instance if we set a font size on a parent element, the child elements will inherit that font size unless a different font sixe is specified for them. </p>
+<ul><li>(*) is a universal selector that selects all elements in a document. When combined with other selectore, it can target specific elements or groups.</li>
+
+<li>Spaces in CSS selectors are used to target nested elements. For example, div p targets all &lt;p&gt; elements that are descendants or children of &lt;div&gt; elements</li>
+
+<li>The hash (#) symbol is used to select elements by their ID. For example, '#myElement' selects the element with the ID 'myElement'</li>
+<li> The (.) symbol is used to denote a class selector. It is followed by the name of the class we intend to target in the stylesheet. When applying styles to a class, all elements with that class will inherit those styles.</li></ol>
