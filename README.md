@@ -438,7 +438,7 @@ Essentially, understanding these components helps with thw understanding and man
 <p><em>We can either use "a" and then "a:hover" or "a:link," "a:visited," and "a:hover" in that specific order for the styling to work correctly.</em></p>
 <p>In general, when there are links within extensive text, they should be underlined. This is especially useful for persons who are colorblind or have conditions that make it difficult to distinguish between the link and the surrounding text. However, if the links are in a navigation bar or another area where consumers expect to click and be redirected, we can remove the underlining. These are just a few simple strategies for creating visually appealing web page connections.</p>
 
-### Inheritance in CSS
+#### Inheritance in CSS
 
 <p>In CSS, inheritance refers to the mechanism by which properties of a parent element are passed down to its children unless overridden. Inheritence in CSS works with alll the below mentioned selectors. When we appply styles to a parent element, those styles are inherited by its children unless overridden. For instance if we set a font size on a parent element, the child elements will inherit that font size unless a different font sixe is specified for them. </p>
 <ul><li>(*) is a universal selector that selects all elements in a document. When combined with other selectore, it can target specific elements or groups.</li>
@@ -447,3 +447,16 @@ Essentially, understanding these components helps with thw understanding and man
 
 <li>The hash (#) symbol is used to select elements by their ID. For example, '#myElement' selects the element with the ID 'myElement'</li>
 <li> The (.) symbol is used to denote a class selector. It is followed by the name of the class we intend to target in the stylesheet. When applying styles to a class, all elements with that class will inherit those styles.</li></ol>
+
+
+#### Debugging CSS with Borders and Background Colors
+
+Debbugging CSS with borders and background colors involves temporarily adding visual cues to the webpage to identify  layout and styling issues
+<h6>Borders:</h6>
+<ul><li> We add borders to elements to visualize their boundaries and positioning.</li>
+<li> Borders can also help with the identifying of spacing issues, such as margins and padding.<li>
+<h6>Backgroung Colors</h6>
+<ul><li> we apply the bg colors to elements to distinguish the form surrounding elements</li>
+<li>This helps on identifying nested problems and element visibility</li></ul>
+ By using borders and background colors in thisway, we can visually inspect the webpage and quickly identify CSS issues. 
+ <em>Once  the problem is resolved it is important to remove the debug styles that have been added.
